@@ -1,11 +1,8 @@
-body{
-    background-color: #74b49b;
-}
 div{
     background-color: white;
     border: 1px solid black;
     padding: 8px;
-    width: 90%;
+    width: 95%;
     margin: 0 auto;
 }
 fieldset{
